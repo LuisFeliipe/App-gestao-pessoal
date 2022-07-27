@@ -1,0 +1,61 @@
+img
+{
+  width: 3.12rem;
+  height: 3.12rem;
+}
+
+.Fonte
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container
+{
+  margin-top: 3.75rem;
+}
+
+#Botão
+{
+  margin-top: 0.93rem;
+}
+
+#Row1
+{
+  margin-top: 3.12rem;
+}
+
+#Row2
+{
+  margin-top: 1rem;
+}
+
+#Ano
+{
+  padding-right: 0.62rem;
+}
+
+#Mês
+{
+  padding-right: 0.62rem;
+}
+
+#Dia
+{
+  padding-right: 0.62rem;
+}
+
+#Tabela
+{
+  margin-top: 5rem;
+}
+
+#tabelaConsulta
+{
+  margin-top: 5rem;
+}
+
+a:active
+{
+  color: red;
+}
+
